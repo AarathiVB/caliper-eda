@@ -2,20 +2,6 @@
 
 The CALIPER project is about creating a toolbox for exploratory analysis of experiment data.
 
-## How to clone this repository
-
-On the left side, you need to go to **Settings > Access tokens** and add yourself a new token. After the creation, the token is only displayed ONCE! You need to save the token safely to a local text file for example.
-
-Then go back to the project overview, go to **clone** and choose **Clone with HTTPS**. The link should look like this:
-
-<p>https://code.ovgu.de/fschwage/caliper-kmd-teamproject.git</p>
-
-When you clone for example with VSCode, you have to modify the URL by adding your username before the domain:
-
-<p>https://USERNAME@code.ovgu.de/fschwage/caliper-kmd-teamproject.git</p>
-
-The Git manager will pop up asking you for your password. Use your token as a password. 
-
 ## Installation
 
 - [Python](https://www.python.org/downloads/) is the used programming language.
