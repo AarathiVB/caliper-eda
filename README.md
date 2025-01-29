@@ -122,7 +122,3 @@ A default Network URL and External URL will be given by Streamlit. If these URLs
 - Ensure Docker is running before attempting to load or run the Docker image.
 - If there is an error related to port allocation (e.g., the port is already in use), you can map the Streamlit app to a different port by changing the first port number in the run command (e.g., `-p 8502:8501` to use port 8502 on the host).
 - If you encounter any issues, refer to the official Docker documentation, the support forums, or contact the developers for troubleshooting assistance.
-
-### Developer Contact:
-- Aarathi Vijayachandran: aarathi.vijayachandran@st.ovgu.de
-- Friedrich Schwager: friedrich.schwager@st.ovgu.de
