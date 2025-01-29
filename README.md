@@ -1,6 +1,6 @@
-# caliper-kmd-teamproject
+# CALIPER
 
-The CALIPER teamproject is about creating a toolbox for exploratory analysis of experiment data.
+The CALIPER project is about creating a toolbox for exploratory analysis of experiment data.
 
 ## How to clone this repository
 
