@@ -1,0 +1,8 @@
+streamlit
+streamlit-js-eval
+pandas
+dython
+matplotlib
+seaborn
+numpy
+openpyxl
