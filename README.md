@@ -1,20 +1,6 @@
-# caliper-kmd-teamproject
+# CALIPER
 
-The CALIPER teamproject is about creating a toolbox for exploratory analysis of experiment data.
-
-## How to clone this repository
-
-On the left side, you need to go to **Settings > Access tokens** and add yourself a new token. After the creation, the token is only displayed ONCE! You need to save the token safely to a local text file for example.
-
-Then go back to the project overview, go to **clone** and choose **Clone with HTTPS**. The link should look like this:
-
-<p>https://code.ovgu.de/fschwage/caliper-kmd-teamproject.git</p>
-
-When you clone for example with VSCode, you have to modify the URL by adding your username before the domain:
-
-<p>https://USERNAME@code.ovgu.de/fschwage/caliper-kmd-teamproject.git</p>
-
-The Git manager will pop up asking you for your password. Use your token as a password. 
+The CALIPER project is about creating a toolbox for exploratory analysis of experiment data.
 
 ## Installation
 
@@ -136,7 +122,3 @@ A default Network URL and External URL will be given by Streamlit. If these URLs
 - Ensure Docker is running before attempting to load or run the Docker image.
 - If there is an error related to port allocation (e.g., the port is already in use), you can map the Streamlit app to a different port by changing the first port number in the run command (e.g., `-p 8502:8501` to use port 8502 on the host).
 - If you encounter any issues, refer to the official Docker documentation, the support forums, or contact the developers for troubleshooting assistance.
-
-### Developer Contact:
-- Aarathi Vijayachandran: aarathi.vijayachandran@st.ovgu.de
-- Friedrich Schwager: friedrich.schwager@st.ovgu.de
